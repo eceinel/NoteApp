@@ -16,7 +16,9 @@ For users who prefer working with checklists, the app provides a user-friendly i
 In summary, the note-taking app offers a wide range of features that cater to various note-taking preferences and organizational needs. From flexible note formats to powerful search capabilities, reminders, labeling, priority management, and checklists, the app provides a comprehensive toolkit for capturing, organizing, and managing information effectively. Whether for personal or professional use, this app aims to enhance productivity, streamline workflows, and promote a more efficient and organized approach to note-taking.
 
 
+
 Summary;
+
 Note-taking: User can create notes in text, image and audio. Users can write text notes, capture or add images from their gallery and record audio.
 
 Editing and formatting: Users can edit and format their notes to make them more readable and visually appealing.
