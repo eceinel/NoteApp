@@ -17,9 +17,15 @@ In summary, the note-taking app offers a wide range of features that cater to va
 
 
 Note-taking: User can create notes in text, image and audio. Users can write text notes, capture or add images from their gallery and record audio.
+
 Editing and formatting: Users can edit and format their notes to make them more readable and visually appealing.
+
 Searching: Users can search their notes by title, keywords, or tags and quickly find the desired notes.
+
 Reminders: Users can set reminders for specific dates or times to ensure they don't miss important tasks or appointments.
+
 Labeling and categorizing: Notes can be associated with labels or categories. This allows for better organization of notes and easier retrieval of specific topics or groups of notes.
+
 Priority and organization: Pinning allows users to prioritize their notes by keeping the most relevant or time-sensitive information readily visible. It helps users stay focused on key tasks or reminders.
+
 Checklists: Users can easily create new checklists by adding items or tasks to the list. They can enter text descriptions, set due dates, or add additional details to each checklist item.
