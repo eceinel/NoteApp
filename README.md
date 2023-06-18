@@ -18,7 +18,7 @@ In summary, the note-taking app offers a wide range of features that cater to va
 
 <br>
 
-<b> TLDR; </b>
+<b> TLDR ; </b>
 
 Note-taking: User can create notes in text, image and audio. Users can write text notes, capture or add images from their gallery and record audio.
 
